@@ -1,0 +1,7 @@
+Super Zen Dragon
+
+Demo at http://www.youtube.com/watch?v=kolEDd8QYMI
+
+The code is a mess, but it runs and I am proud of what was accomplished in only 48 hours.
+
+To compile this you will need SDL, SDL_image, SDL_mixer, SDL_gfx and SDL_ttf

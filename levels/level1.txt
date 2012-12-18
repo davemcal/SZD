@@ -1,0 +1,22 @@
+treeset.bmp
+bg1.bmp
+10 10
+1 2 1 2 1  2 1 2 1 2
+2 0 0 0 0  0 0 0 0 1
+1 0 0 0 0  0 0 0 0 2
+2 0 0 0 0  0 0 0 0 1
+1 0 0 0 0  0 0 0 0 2
+
+2 0 0 0 0  0 0 0 0 1
+1 0 0 0 0  0 0 0 0 2
+2 0 0 0 0  0 0 0 0 1
+1 0 0 0 0  0 0 0 0 2
+2 1 2 1 2  1 2 1 2 1
+
+1 1
+1 1
+
+1 8
+8 1
+Switch the yins to complete the level.
+Use Tab to switch control.
